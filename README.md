@@ -29,6 +29,7 @@ Outcome:
 A functional chatbot that leverages NLP techniques to process user inputs, recognize intents, and generate meaningful replies.
 
 # OUTPUT OF THE TASK 
+![Image](https://github.com/user-attachments/assets/22cd54f5-16df-4df4-8ca7-d820006c1a5f)
 
 
 
